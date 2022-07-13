@@ -1,0 +1,369 @@
+[
+    {
+        "recordId": "recTXmNsgDLf5",
+        "createdAt": 1656410133000,
+        "updatedAt": 1657467212000,
+        "fields": {
+            "company": "绫致时装",
+            "start_date": "2022.04",
+            "highlight": "VSCode调试开发Spring项目",
+            "management": "Coding\nConfluence\nYapi文档\nWiki文档\n腾讯云服务\n摹客",
+            "ID": 6,
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "Spring Cloud\nRedis\nLombok\nNacos\nMybatis-plus\nMySQL",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于企微的服务于线上和线下门店导购，同时面向会员使用商城服务的小程序",
+            "end_date": "2022.06",
+            "project": "Wecom智慧导购",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "IDEA\nVSCode",
+            "my_duty": "智慧导购业务后端开发\n1.业务接口开发\n2.bug修正"
+        }
+    },
+    {
+        "recordId": "rec0RNK6slhe8",
+        "createdAt": 1656409566000,
+        "updatedAt": 1657467215000,
+        "fields": {
+            "start_date": "2020.10",
+            "highlight": "完整经历项目周期：从立项到上线\n数据迁移\n开发效率化工具：数据整理，自动化抽取测试结果",
+            "management": "Jira\nGitlab\nConfluence\n石墨文档\nYapi",
+            "ID": 5,
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "微信小程序\nVueJs\nElementUI\nAxios\n.NetCore WebAPI(C#)\nRedis\nMySQL",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装微信小程序/H5/PC官方商城。集成PIM,CRM,OMS等系统，为会员和门店导购提供全方位服务。",
+            "end_date": "2022.03",
+            "project": "Wemall3.0电商平台",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "Visual Studio\nVSCode\n小程序开发者工具",
+            "my_duty": "S2M(Speed To Market)模块负责人。包含导购管理，工单(推荐搭配/软文活动/直播任务)投放，业绩归属等模块。"
+        }
+    },
+    {
+        "recordId": "recg8EBaoXAyH",
+        "createdAt": 1656409566000,
+        "updatedAt": 1657467216000,
+        "fields": {
+            "start_date": "2019.12",
+            "highlight": "完整经历项目周期：\n权益发放效率化(已平稳运行2年)\n慢SQL分析及性能优化",
+            "management": "Heroku\nJira\nGitlab\nConfluence\nTAPD",
+            "ID": 4,
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "Heroku Java\nSpring boot\nMybatis\nRabbitMQ\nQuartz\nPostgreSQL",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于Pass平台Heroku开发的客户管理服务。模块包含会员，会员权益，优惠券，活动，订单信息等，同时服务公司海内外线上线下商城等系统, 并兼容当前的SalesCloud平台。",
+            "end_date": "2020.09",
+            "project": "New CRM客户关系平台",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "IDEA",
+            "my_duty": "负责会员权益发放(生日券，季度礼，会员保级);\n业务常用接口开发, 如会员积分，订单等。"
+        }
+    },
+    {
+        "recordId": "rec8LoiaBvAvq",
+        "createdAt": 1656409566000,
+        "updatedAt": 1657467217000,
+        "fields": {
+            "start_date": "2018.11",
+            "highlight": "快速掌握Commerce Cloud技术栈开发调试\nJinkens自动话部署Commerce Cloud\n自驱动效率化工具开发。\nCommerce Cloud仅可查阅有英文资料",
+            "management": "Commerce Cloud BM\nJira\nBitbucket\nConfulence",
+            "ID": 3,
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "NodeJs\nCommerce Cloud B2C API \nOCAPI\njQuery\nBootStrap\nAjax\nhtml/css\nWebpack",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于SaaS平台Salesforce的商务云(Commerce Cloud B2C 和 B2B 商务解决方案)跨平台电商，包含在线零售，店铺管理，订单等模块。面向东南亚市场区域，如马来西亚，香港，泰国，台湾等",
+            "end_date": "2019.11",
+            "project": "Bestseller海外官网",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "VSCode",
+            "my_duty": "负责现有马来西亚/香港平台业务开发和维护\n搭建泰国和台湾官网\n集成内部OMS.PIM，CRM等系统功能\n集成第三方支付，绿界支付发票，LINE登录等系统。"
+        }
+    },
+    {
+        "recordId": "recigCVg8MKpd",
+        "createdAt": 1656409746000,
+        "updatedAt": 1657467233000,
+        "fields": {
+            "company": "富士通(西安)系统工程(CMMI5认证)",
+            "start_date": "2015.09",
+            "highlight": "完整项目周期\n公共组件调研设计\n页面性能优化",
+            "management": "Excel\nSVN\nVSS",
+            "ID": 2,
+            "develop_mode": [
+                {
+                    "id": "atczqzZfaHb2F",
+                    "name": "v-mode.svg",
+                    "size": 4707,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcMvY21iXvPC",
+                    "name": "tree-org.svg",
+                    "size": 44655,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb"
+                }
+            ],
+            "link": "https://www.fujitsu.com/global",
+            "company_log": "富士通（西安）系统工程有限公司（简称：富士通西安）于2001年在西安软件园创立，是世界500强——富士通株式会社在华投资的全资子公司。公司成立20年来，致力于日本医疗、金融、行政、教育、产业·流通等行业的系统开发",
+            "duty_framework": "jQuery\njQuery UI\nSpring MVC\nPostgreSQL",
+            "duration": "2014.8 - 2018.10",
+            "project_intro": "富士通系统第三代Web公共图书馆系统，为市町村立图书馆提供运营支持。使用V字模型开发, 已成功在东日本多家市立图书馆上线。",
+            "end_date": "2018.10",
+            "project": "FJAS-公共图书馆",
+            "logo": [
+                {
+                    "id": "atcQHl54kgvQc",
+                    "name": "Fujitsu-Logo.svg",
+                    "size": 5638,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/8e6ea4323d864412bac6e34e9789775a",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/8e6ea4323d864412bac6e34e9789775a"
+                }
+            ],
+            "ide": "Eclipse\nHBuilder",
+            "my_duty": "公共组件调研和开发;\n业务接口开发\n图书的阅览系统(借出，返还，用户);\n图书目录系统(图书登记维护)\n性能优化"
+        }
+    },
+    {
+        "recordId": "rec3i9ZWveqY2",
+        "createdAt": 1656409746000,
+        "updatedAt": 1657467235000,
+        "fields": {
+            "start_date": "2014.08",
+            "highlight": "2014年度最佳新人奖(top2/30)\n2017年度社长特殊表彰(top1/全社项目)",
+            "management": "VSS\nExcel\nSVN",
+            "ID": 1,
+            "develop_mode": [
+                {
+                    "id": "atczqzZfaHb2F",
+                    "name": "v-mode.svg",
+                    "size": 4707,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcMvY21iXvPC",
+                    "name": "tree-org.svg",
+                    "size": 44655,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb"
+                }
+            ],
+            "link": "https://www.fujitsu.com/global",
+            "company_log": "富士通（西安）系统工程有限公司（简称：富士通西安）于2001年在西安软件园创立，是世界500强——富士通株式会社在华投资的全资子公司。公司成立20年来，致力于日本医疗、金融、行政、教育、产业·流通等行业的系统开发",
+            "duty_framework": ".Net\nStrusts1.0\nhtml/css\nJavascript\nVisual Basic\nOracle\nMySQL",
+            "duration": "2014.8 - 2018.10",
+            "project_intro": "中国部：制造业(西容MES项目)\n公共文教部：电商，汽车，医疗\n第三者检证：项目质量评估",
+            "end_date": "2015.08",
+            "project": "FXS(富士通西安) 其他项目",
+            "logo": [
+                {
+                    "id": "atcQHl54kgvQc",
+                    "name": "Fujitsu-Logo.svg",
+                    "size": 5638,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/8e6ea4323d864412bac6e34e9789775a",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/8e6ea4323d864412bac6e34e9789775a"
+                }
+            ],
+            "ide": "Eclipse\nVisual Studio\nExcel VBA",
+            "my_duty": "毕业第一年，任职中国事业部。\n参与国内项目开发；\n支援其他部门项目开发；\n支援第三者检证(黑盒测试)；"
+        }
+    },
+    {
+        "recordId": "recohjTY6SBJy",
+        "createdAt": 1657465151000,
+        "updatedAt": 1657467597000,
+        "fields": {
+            "company": "西安理工大学",
+            "start_date": "2010.9",
+            "highlight": "工学学士学位\nCET-4",
+            "ID": 0,
+            "link": "https://www.xaut.edu.cn/",
+            "company_log": "西安理工大学是中央与地方共建，陕西省重点建设的高水平大学，是国家中西部高等教育振兴计划——中西部高校基础能力建设工程实施院校，陕西省“国内一流大学建设高校”。2020年7月，学校成为工信部、陕西省共建高校。学校是我国西北地区水利水电、装备制造、印刷包装行业高级专门人才的重要培养基地和科研中心之一。",
+            "duration": "2010.9 - 2014.8",
+            "project_intro": "网络工程是一门普通高等学校本科专业，属于计算机类专业，基本修业年限为四年，授予工学学士学位。网络工程专业主要讲授计算机科学基础理论、计算机软硬件系统及应用知识、网络工程的专业知识及应用知识。 网络工程专业旨在培养具有创新意识，具有本专业领域分析问题和解决问题的能力，具备一定的实践技能，并具有良好的外语应用能力的高级研究应用型专门人才。",
+            "end_date": "2014.8",
+            "project": "计算机学院 - 网络工程",
+            "logo": [
+                {
+                    "id": "atckOvBS4njDT",
+                    "name": "xaut.jpg",
+                    "size": 77429,
+                    "mimeType": "image/jpeg",
+                    "token": "space/2022/07/10/c49ffa4a98ea49b786d15daed7a0e3db",
+                    "width": 883,
+                    "height": 227,
+                    "url": "https://s1.vika.cn/space/2022/07/10/c49ffa4a98ea49b786d15daed7a0e3db"
+                }
+            ]
+        }
+    }
+]
