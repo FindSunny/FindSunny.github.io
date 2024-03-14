@@ -1,0 +1,447 @@
+[
+    {
+        "recordId": "recPfwwQYFNEd",
+        "createdAt": 1680515082000,
+        "updatedAt": 1710333027000,
+        "fields": {
+            "company": "绫致时装",
+            "start_date": "2023.02",
+            "organizationPath": "organization/flex-org.svg",
+            "highlight": "掌握CMS商品数据从样衣录入到三方平台商品发布的全流程\n集成视频号、喵街等当前主流电商平台商品发布的全流程\n掌握FoxBpm工作流引擎集成到SpringBoot项目的方法\nMySQL数据库的设计与优化",
+            "management": "Jira\nGitlab\nConfluence\n飞书文档",
+            "ID": 7,
+            "developModePath": "devmode/devops-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "spring cloud\nLombok\nKafka\nnacos\nRabbitMQ\nmybatis-plus\nMySQL\nRedis\nVueJs",
+            "logoPath": "logo/bestseller.svg",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装商品内容管理核心系统，围绕商品的内容管理，集成生产，摄影，审批流，及三方电商平台协作系统，涉及ONLY/杰克琼斯/SELECTED思莱德/VERO MODA/J.LINDEBERG等公司其他品牌，包含商品内容(图片，文字，HTML，多媒体等)及处理，数据分发至各电商平台(京东/天猫/淘宝/唯品会/德物/抖音等)",
+            "end_date": "至今",
+            "project": "CMS内容管理系统",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "IDEA\nVSCode",
+            "my_duty": "商品数据接口维护。开发微服务接口对接SCM样衣数据录入，维护EC商品基础数据管理。负责商品图片处理模块。将商品通用图片裁剪，压缩及Logo水印处理, 符合视频号、抖音、京东、喵街、小红书等数十个平台的图片规范，提高图片上传效率。\n维护工作流审批模块。使用Eclipse设计和开发FoxBpm6.0规范的审批流任务，对审批工作流等新增及调整。如拍摄计划审批流，采购合同审批流等。\n集成视频号，喵街及绫致官网的商品发布API。整合商品SKU、平台属性、商品图片、商品描述等信息，对接平台API，使用RabbitMQ消息队列，实现一键发布商品到多个平台，提高运营效率。\nMySQL性能调优。使用MySQL Explain等执行计划分析工具，对SQL处理超过2s的慢查询分析，结合索引优化(单独，组合识别度)，SQL重构及库表编码规范，提高CMS首页、修图任务、商品数据录入等模块的加载和处理速度。慢SQL发生率基本清零。\n实时监控及自动化测试。使用Nodejs、PM2、Puppeteer、飞书API等框架，编写CMS商品发布健康监控，及时提醒运营人员，减少人工干预；编写自动化配置平台类目映射及属性映射配置,快速完成平台类目对接。\n项目文档化。使用飞书文档，Github等工具，对CMS API、三方平台集成等进行文档化; 复盘测试Bug类型和解决方案。"
+        }
+    },
+    {
+        "recordId": "recTXmNsgDLf5",
+        "createdAt": 1656410133000,
+        "updatedAt": 1710330624000,
+        "fields": {
+            "start_date": "2022.04",
+            "organizationPath": "organization/flex-org.svg",
+            "highlight": "了解企业微信建设私域的业务流程,SCRM系统的运营，熟悉企业微信小程序开发及应用，熟悉企业微信API接口\n掌握主流外呼平台的运营、集成及联调方式。京东言犀，一知智能等外呼平台具有服装行业案例。",
+            "management": "Coding\nConfluence\nYapi文档\nWiki文档\n腾讯云服务\n摹客",
+            "ID": 6,
+            "developModePath": "devmode/devops-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "Spring Cloud\nRedis\nKafka\nLombok\nNacos\nMybatis-plus\nMySQL",
+            "logoPath": "logo/bestseller.svg",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于企业微信的企业客服系统，服务公司运营团队进行商务营销，销售分析，会员维护等，主要用于企业私域建设，涉及ONLY/杰克琼斯/SELECTED思莱德/VERO MODA/J.LINDEBERG等公司其他品牌",
+            "end_date": "2023.02",
+            "project": "Wecom智慧导购",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "IDEA\nVSCode",
+            "my_duty": "EC小程序和Wecom智慧导购业务RESTful接口的设计与开发。DTO淘宝客小程序商品详情，会员任务管理接口开发；智慧导购抽奖小程序抽奖算法及数据分析开发；\n京东言犀外呼集成。完整负责京东言犀SaaS外呼API系统集成，实现WeCome维护京东外呼任务/人群上传/任务调度/短信管理/黑名单/拦截策略/外呼回调/报表统计等功能；外呼接通率约40%,最终意向用户在7%左右浮动\n一知智能外呼集成集成。参与一知外呼任务维护及人群包上传开发。"
+        }
+    },
+    {
+        "recordId": "rec0RNK6slhe8",
+        "createdAt": 1656409566000,
+        "updatedAt": 1710328758000,
+        "fields": {
+            "start_date": "2020.10",
+            "organizationPath": "organization/flex-org.svg",
+            "highlight": "完整经历Wemall商城项目周期：从立项开发到灰度测试上线运营，独立负责S2M模块运维及开发\n熟悉.NetCore中间件开发，包含Redis、Quartz、NLog等\n了解小程序接入流程。掌握微信SDK Token获取、用户unionid/openidd相关信息获取、消息推送等开发流程\n熟练掌握跨平台调试能力，包含浏览器，微信小程序，NodeJS,.NetCore,PHP等",
+            "management": "Jira\nGitlab\nConfluence\n石墨文档\nYapi",
+            "ID": 5,
+            "developModePath": "devmode/devops-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": ".NetCore WebAPI(C#)\nRedis\nMySQL\n微信小程序\nVueJs\nElementUI\nAxios",
+            "logoPath": "logo/bestseller.svg",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装微商城小程序/H5/PC官方商城。集成PIM,CRM,OMS等系统，为客户提供线上购物及线下门店导购提供会员引流等营销服务，成功上线J.LINDEBERG品牌商城。",
+            "end_date": "2022.03",
+            "project": "Wemall3.0电商平台",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "Visual Studio\nVSCode\n小程序开发者工具",
+            "my_duty": "基于Woaap架构的S2M(Speed To Market私域引流)开发及运维。主要使用ASP.NetCore、中间件、Redis等开发及维护导购小程序服务和Admin服务。\n微信小程序导购RESTful API开发及维护。包含导购登录、扫码绑定、推荐搭配、单品分享、直播间查询、微信公众号推送、业绩查询、导购通知等模块。\nS2M Admin管理模块开发维护。开发维护导购与客户的短绑定/长绑定，导购微信和企业微信分享的推荐搭配软文和商品等的关系追踪，Quartz定时发布运营推荐搭配，直播任务等导购通知功能等。\n小程序开发者工具调试测试。为方便调查订单引流路径问题和UAT测试, 使用开发者工具调试Wemall商城全处理流程。包含扫码绑定、单品查看、直播间下单、订单提交、导购业绩查询等。\n集成绫致OMS及CRM。包含订单状态更新、订单商品、订单渠道和导购绑定关系上报等数据处理。\n开发测试及数据迁移效率化工具。如自动抽取订单数据、导购绑定归属、,配合UAT人员测试。包含VBA,NodeJS,Chrome插件等"
+        }
+    },
+    {
+        "recordId": "recg8EBaoXAyH",
+        "createdAt": 1656409566000,
+        "updatedAt": 1710318801000,
+        "fields": {
+            "start_date": "2019.12",
+            "organizationPath": "organization/flex-org.svg",
+            "highlight": "完整经历项目周期的实施经验，包括需求分析，系统设计，开发，测试，上线，运维\n熟悉CRM各业务模块的业务流程，包括会员、订单、权益、优惠券、积分及会员等级之间的业务关系\n复杂业务SQL的编写和性能优化。包含数据库临时表、分页(offset)、索引及排序等优化手段\nSalsefore Sales Cloud日常运维使用，与Marketing Cloud之间的交互和市场营销操作",
+            "management": "Heroku\nJira\nGitlab\nConfluence\nTAPD",
+            "ID": 4,
+            "developModePath": "devmode/devops-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "Heroku Java\nSpring boot\nMybatis\nRabbitMQ\nQuartz\nPostgreSQL",
+            "logoPath": "logo/bestseller.svg",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于Pass平台Heroku+Spring boot框架开发的客户管理系统。模块包含会员，会员权益，优惠券，活动，订单信息等，同时服务公司海内外线上线下商城等系统, 并兼容当前的SalesCloud平台，为公司全品牌提供服务",
+            "end_date": "2020.09",
+            "project": "New CRM客户关系平台",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "IDEA",
+            "my_duty": "CRM后端Spring boot框架RESTFUL API开发。会员数据处理及消息通知，根据会员编码、手机号、品牌等条件查询会员信息，会员积分计算同步等。集成SMS短信和Wechat公众号消息发送积分变动通知。JUnit单元测试撰写及覆盖率分析。\n会员权益券发放。基于Qurtz+RabbitMQ框架设计权益券下发逻辑，实现千万级别(6千万条会员数据)的会员权益券下发，同时保证排除黑白名单用户，处理异常时的重试机制，保证权益券下发的高效率和高可用性。包括生日券下发(定时发券，注册发券)、季度礼下发、会员保级礼及首单礼下发等。\n会员保级/降级。所有品牌会员保级/降级逻辑的设计及实现。包括会员保级礼发放、会员保级/降级短信通知等。"
+        }
+    },
+    {
+        "recordId": "rec8LoiaBvAvq",
+        "createdAt": 1656409566000,
+        "updatedAt": 1710315409000,
+        "fields": {
+            "start_date": "2018.11",
+            "organizationPath": "organization/flex-org.svg",
+            "highlight": "掌握Saas平台Commerce Cloud技术栈开发调试，基于NodeJs的MobileFirst框架开发\n深入理解电商业务各个环节的流转，包括但不限于商品(PIM/CMS)、订单(OMS)、会员(CRM)、营销(MKT)、支付(PAY)、物流(LGS)等。",
+            "management": "Commerce Cloud BM\nJira\nBitbucket\nConfulence",
+            "ID": 3,
+            "developModePath": "devmode/devops-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atc9LTTMFn9R3",
+                    "name": "devops-mode.svg",
+                    "size": 7234,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/72c966f89c55424fa45fc26dce5ac82c"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcvd2qWhe8gB",
+                    "name": "flex-org.svg",
+                    "size": 48220,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/31e19a924c8f4d97ba30e91b6a14c590"
+                }
+            ],
+            "link": "https://about.bestseller.com/our-brands",
+            "company_log": "绫致时装是 丹麦 BESTSELLER在中国的全资子公司， 于1996年进入中国，Bestseller设计和销售适合都市女性、男性、儿童及青少年的流行时装和饰品，旗下拥有VERO MODA，ONLY，JACK & JONES，selected，Name It/Newborn，PH Industries和phink industries等十二个品牌",
+            "duty_framework": "NodeJs\nCommerce Cloud B2C API \nOCAPI\njQuery\nBootStrap\nAjax\nhtml/css\nWebpack",
+            "logoPath": "logo/bestseller.svg",
+            "duration": "2018.11 - 至今",
+            "project_intro": "绫致时装基于SaaS平台Salesforce的商务云(Commerce Cloud B2C 和 B2B 商务解决方案)跨平台电商，包含在线零售，店铺管理，订单等模块。面向东南亚市场区域，如马来西亚，香港，泰国，台湾等，涉及ONLY/杰克琼斯/SELECTED思莱德/VERO MODA等品牌",
+            "end_date": "2019.11",
+            "project": "Bestseller海外官网",
+            "logo": [
+                {
+                    "id": "atcORxTwl35fA",
+                    "name": "bestseller.svg",
+                    "size": 4602,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/af187af3be7041d4a325bdea730fe0b5",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/af187af3be7041d4a325bdea730fe0b5"
+                }
+            ],
+            "ide": "VSCode",
+            "my_duty": "现有商城官网开发维护。应用Commerce Cloud技术栈对现有马来西亚/香港平台业务开发和维护。\n参与搭建泰国和台湾商城官网。使用ISML/SCSS/BootStrap完成登录、商品PLP/PDP、订单等页面, 集成(Nodejs/OCAPI)第三方支付(iPay88)、绿界(ECPay)支付发票开立、LINE登录等系统。 \nOMS集成及订单模块开发。参与开发订单模块，包括订单创建、支付、发货、退货等流程。集成OMS订单信息同步，实现订单状态同步、库存同步等功能。整合第三方物流服务，同步物流信息。\nCRM集成及会员模块开发。参与开发会员模块，包括会员注册、登录、积分、优惠券等功能。集成CRM会员信息同步，实现会员信息同步、积分同步等功能。Marketing Cloud的Journey Builder集成，实现会员营销活动。\n效率化部署及应用。调查搭建Jinkens自动化部署服务，配置Business Manager及OSF builder，实现SandBox、Staging、Production环境的流程化部署。"
+        }
+    },
+    {
+        "recordId": "recigCVg8MKpd",
+        "createdAt": 1656409746000,
+        "updatedAt": 1710328724000,
+        "fields": {
+            "company": "富士通(西安)系统工程(CMMI5认证)",
+            "start_date": "2015.09",
+            "organizationPath": "organization/tree-org.svg",
+            "highlight": "完整项目周期：从立项，原型调查到开发，测试及上线\n公共组件调研设计：基于项目需求和团队技术栈，使用jQuery等当下主流技术进行公共组件调研与设计。\n复杂业务的单页面性能优化：结合业务情况使用DevTools分析并解决初期化和动作渲染过慢的问题\n2017年度社长特殊表彰(top1/全社项目)",
+            "management": "Excel\nSVN\nVSS",
+            "ID": 2,
+            "developModePath": "devmode/v-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atczqzZfaHb2F",
+                    "name": "v-mode.svg",
+                    "size": 4707,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcMvY21iXvPC",
+                    "name": "tree-org.svg",
+                    "size": 44655,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb"
+                }
+            ],
+            "link": "https://www.fujitsu.com/cn",
+            "company_log": "富士通（西安）系统工程有限公司（简称：富士通西安）于2001年在西安软件园创立，是世界500强——富士通株式会社在华投资的全资子公司，2013年12月30日，富士通（西安）顺利通过了CMMI5级的评估，取得了CMMI5 v1.3级的资格认证。公司成立20年来，致力于日本医疗、金融、行政、教育、产业·流通等行业的软件系统开发。",
+            "duty_framework": "jQuery\njQuery UI\nSpring MVC\nPostgreSQL",
+            "logoPath": "logo/Fujitsu-Logo.svg",
+            "duration": "2014.8 - 2018.10",
+            "project_intro": "富士通系统第三代Web公共图书馆系统，为市町村立图书馆提供运营支持。CS应用重构至Web应用的项目，使用V字模型开发, 已成功在东日本多家市立图书馆上线。",
+            "end_date": "2018.10",
+            "project": "FJAS-公共图书馆",
+            "logo": [
+                {
+                    "id": "atcQHl54kgvQc",
+                    "name": "Fujitsu-Logo.svg",
+                    "size": 5638,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/8e6ea4323d864412bac6e34e9789775a",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/8e6ea4323d864412bac6e34e9789775a"
+                }
+            ],
+            "ide": "Eclipse\nHBuilder",
+            "my_duty": "公共组件库负责人。设计开发基于jQuery，JqueryUI，Bootstrap等技术，提供基础UI组件。如日期选择器、下拉框、表格、分页等。扩展优化第三方插件如DateTable\n性能调优。使用Chrome Performance等工具，对系统进行性能调优，提高系统性能，减少页面加载时间。\n业务模块Spring RESTful API开发。使用SpringMVC，Hibernate等技术，开发业务模块。如图书借出、返还、用户管理、图书等级等。\n参与制定项目开发规范，新人技术培训。\n海外驻场开发。在日本仙台驻场开发，与客户沟通，需求分析，开发，测试，上线等。"
+        }
+    },
+    {
+        "recordId": "rec3i9ZWveqY2",
+        "createdAt": 1656409746000,
+        "updatedAt": 1710311030000,
+        "fields": {
+            "start_date": "2014.08",
+            "organizationPath": "organization/tree-org.svg",
+            "highlight": "2014年度最佳新人奖(top2/30)",
+            "management": "VSS\nExcel\nSVN",
+            "ID": 1,
+            "developModePath": "devmode/v-mode.svg",
+            "develop_mode": [
+                {
+                    "id": "atczqzZfaHb2F",
+                    "name": "v-mode.svg",
+                    "size": 4707,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/10/0e5e0ba0570846ea9c1df52548d2bade"
+                }
+            ],
+            "organization": [
+                {
+                    "id": "atcMvY21iXvPC",
+                    "name": "tree-org.svg",
+                    "size": 44655,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/d5e8fe8b74d44c128a3a27df7cd0d6cb"
+                }
+            ],
+            "link": "https://www.fujitsu.com/cn",
+            "company_log": "富士通（西安）系统工程有限公司（简称：富士通西安）于2001年在西安软件园创立，是世界500强——富士通株式会社在华投资的全资子公司，2013年12月30日，富士通（西安）顺利通过了CMMI5级的评估，取得了CMMI5 v1.3级的资格认证。公司成立20年来，致力于日本医疗、金融、行政、教育、产业·流通等行业的软件系统开发。",
+            "duty_framework": ".Net\nStrusts1.0\nhtml/css\nJavascript\nVisual Basic\nOracle\nMySQL",
+            "logoPath": "logo/Fujitsu-Logo.svg",
+            "duration": "2014.8 - 2018.10",
+            "project_intro": "中国部：制造业(西容MES项目)\n公共文教部：电商，汽车，医疗\n第三者检证：项目质量评估",
+            "end_date": "2015.08",
+            "project": "FXS(富士通西安) 中国部项目",
+            "logo": [
+                {
+                    "id": "atcQHl54kgvQc",
+                    "name": "Fujitsu-Logo.svg",
+                    "size": 5638,
+                    "mimeType": "image/svg+xml",
+                    "token": "space/2022/07/09/8e6ea4323d864412bac6e34e9789775a",
+                    "width": 0,
+                    "height": 0,
+                    "url": "https://s1.vika.cn/space/2022/07/09/8e6ea4323d864412bac6e34e9789775a"
+                }
+            ],
+            "ide": "Eclipse\nVisual Studio\nExcel VBA",
+            "my_duty": "毕业第一年，任职中国事业部，大学生到社会人的转变。\n参与国内.Net/SPringMVC项目，及其他对日部门项目开发；\n支援第三者检证(类似BVT测试)；"
+        }
+    },
+    {
+        "recordId": "recohjTY6SBJy",
+        "createdAt": 1657465151000,
+        "updatedAt": 1710302758000,
+        "fields": {
+            "company": "西安理工大学",
+            "start_date": "2010.9",
+            "highlight": "工学学士学位\nCET-4",
+            "ID": 0,
+            "link": "https://www.xaut.edu.cn/",
+            "company_log": "西安理工大学是中央与地方共建，陕西省重点建设的高水平大学，是国家中西部高等教育振兴计划——中西部高校基础能力建设工程实施院校，陕西省“国内一流大学建设高校”。2020年7月，学校成为工信部、陕西省共建高校。学校是我国西北地区水利水电、装备制造、印刷包装行业高级专门人才的重要培养基地和科研中心之一。",
+            "logoPath": "logo/xaut.jpg",
+            "duration": "2010.9 - 2014.8",
+            "project_intro": "网络工程是一门普通高等学校本科专业，属于计算机类专业，基本修业年限为四年，授予工学学士学位。网络工程专业主要讲授计算机科学基础理论、计算机软硬件系统及应用知识、网络工程的专业知识及应用知识。 网络工程专业旨在培养具有创新意识，具有本专业领域分析问题和解决问题的能力，具备一定的实践技能，并具有良好的外语应用能力的高级研究应用型专门人才。",
+            "end_date": "2014.8",
+            "project": "计算机学院 - 网络工程",
+            "logo": [
+                {
+                    "id": "atckOvBS4njDT",
+                    "name": "xaut.jpg",
+                    "size": 77429,
+                    "mimeType": "image/jpeg",
+                    "token": "space/2022/07/10/c49ffa4a98ea49b786d15daed7a0e3db",
+                    "width": 883,
+                    "height": 227,
+                    "url": "https://s1.vika.cn/space/2022/07/10/c49ffa4a98ea49b786d15daed7a0e3db"
+                }
+            ]
+        }
+    }
+]

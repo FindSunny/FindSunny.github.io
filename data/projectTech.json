@@ -1,0 +1,701 @@
+[
+    {
+        "recordId": "rectWJJyCgbI9",
+        "createdAt": 1680515510000,
+        "updatedAt": 1710333100000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "Spring Cloud",
+            "remark": "https://spring.io/projects/spring-boot",
+            "project_name": "CMS内容管理系统",
+            "language": "java",
+            "rate": "60",
+            "ID": 43
+        }
+    },
+    {
+        "recordId": "recP4phPnC3ei",
+        "createdAt": 1680515510000,
+        "updatedAt": 1710333103000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "Lombok",
+            "remark": "https://projectlombok.org/",
+            "project_name": "CMS内容管理系统",
+            "language": "java",
+            "rate": "5",
+            "ID": 42
+        }
+    },
+    {
+        "recordId": "recxUFTYLFhAQ",
+        "createdAt": 1680515510000,
+        "updatedAt": 1710333103000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "Mybatis",
+            "remark": "https://www.mybatis-plus.com/en/",
+            "project_name": "CMS内容管理系统",
+            "language": "java",
+            "rate": "10",
+            "ID": 41
+        }
+    },
+    {
+        "recordId": "recb7N2oBPKpo",
+        "createdAt": 1680515510000,
+        "updatedAt": 1710333103000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "Mybatis",
+            "project_name": "CMS内容管理系统",
+            "language": "xml",
+            "rate": "5",
+            "ID": 40
+        }
+    },
+    {
+        "recordId": "reccG4Pe7LoGH",
+        "createdAt": 1680515609000,
+        "updatedAt": 1710333103000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "RabbitMQ",
+            "remark": "https://devcenter.heroku.com/articles/cloudamqp#use-with-java",
+            "project_name": "CMS内容管理系统",
+            "language": "java",
+            "rate": "15",
+            "ID": 45
+        }
+    },
+    {
+        "recordId": "rechqMcda8EBA",
+        "createdAt": 1680515748000,
+        "updatedAt": 1710333103000,
+        "fields": {
+            "start_date": 1675440000000,
+            "end_date": 1709222400000,
+            "project_id": 7,
+            "framework": "MySQL",
+            "remark": "https://www.mysql.com/",
+            "project_name": "CMS内容管理系统",
+            "language": "sql",
+            "rate": "5",
+            "ID": 46
+        }
+    },
+    {
+        "recordId": "recKYKQZrqD4R",
+        "createdAt": 1656409617000,
+        "updatedAt": 1680515561000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "Spring Cloud",
+            "remark": "https://spring.io/projects/spring-boot",
+            "project_name": "Wecom智慧导购",
+            "language": "java",
+            "rate": "50",
+            "ID": 1
+        }
+    },
+    {
+        "recordId": "recrJ5Aw3kY8j",
+        "createdAt": 1656409617000,
+        "updatedAt": 1680515563000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "Lombok",
+            "remark": "https://projectlombok.org/",
+            "project_name": "Wecom智慧导购",
+            "language": "java",
+            "rate": "5",
+            "ID": 2
+        }
+    },
+    {
+        "recordId": "recBquqd7qDjC",
+        "createdAt": 1656409617000,
+        "updatedAt": 1680515563000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "Nacos",
+            "remark": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
+            "project_name": "Wecom智慧导购",
+            "language": "java",
+            "rate": "5",
+            "ID": 3
+        }
+    },
+    {
+        "recordId": "recJCHg1UUth7",
+        "createdAt": 1656409911000,
+        "updatedAt": 1680515563000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "Mybatis",
+            "remark": "https://www.mybatis-plus.com/en/",
+            "project_name": "Wecom智慧导购",
+            "language": "java",
+            "rate": "10",
+            "ID": 4
+        }
+    },
+    {
+        "recordId": "recheEX4ZFr8a",
+        "createdAt": 1656480376000,
+        "updatedAt": 1680515563000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "Mybatis",
+            "project_name": "Wecom智慧导购",
+            "language": "xml",
+            "rate": "10",
+            "ID": 5
+        }
+    },
+    {
+        "recordId": "recxZSy7SzLyT",
+        "createdAt": 1656473623000,
+        "updatedAt": 1680515563000,
+        "fields": {
+            "start_date": 1648742400000,
+            "end_date": 1675353600000,
+            "project_id": 6,
+            "framework": "MySQL",
+            "remark": "https://www.mysql.com/",
+            "project_name": "Wecom智慧导购",
+            "language": "sql",
+            "rate": "20",
+            "ID": 6
+        }
+    },
+    {
+        "recordId": "recpmpp831hhn",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "微信小程序",
+            "remark": "https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/",
+            "project_name": "Wemall3.0电商平台",
+            "language": "javascript",
+            "rate": "10",
+            "ID": 7
+        }
+    },
+    {
+        "recordId": "recT8vYXj9xeK",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "VueJs",
+            "remark": "https://cn.vuejs.org/index.html",
+            "project_name": "Wemall3.0电商平台",
+            "language": "javascript",
+            "rate": "10",
+            "ID": 8
+        }
+    },
+    {
+        "recordId": "recvIl3F2E6WN",
+        "createdAt": 1656477779000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "ElementUI",
+            "remark": "https://element.eleme.cn/#/zh-CN",
+            "project_name": "Wemall3.0电商平台",
+            "language": "html/css",
+            "rate": "10",
+            "ID": 9
+        }
+    },
+    {
+        "recordId": "recARuJ6skvqn",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657366210000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": ".NetCore WebAPI(C#)",
+            "remark": "https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet",
+            "project_name": "Wemall3.0电商平台",
+            "language": "C#",
+            "rate": "50",
+            "ID": 10
+        }
+    },
+    {
+        "recordId": "rec0giNcyAIoP",
+        "createdAt": 1656599821000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "Redis",
+            "remark": "https://redis.com/",
+            "project_name": "Wemall3.0电商平台",
+            "language": "C#",
+            "rate": "5",
+            "ID": 11
+        }
+    },
+    {
+        "recordId": "recRHnofe0Njp",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "MySQL",
+            "remark": "https://www.mysql.com/",
+            "project_name": "Wemall3.0电商平台",
+            "language": "sql",
+            "rate": "10",
+            "ID": 12
+        }
+    },
+    {
+        "recordId": "recdhb2IgjMVK",
+        "createdAt": 1656480136000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1601481600000,
+            "end_date": 1646064000000,
+            "project_id": 5,
+            "framework": "NodeJS",
+            "remark": "https://nodejs.org/zh-cn/",
+            "project_name": "Wemall3.0电商平台",
+            "language": "javascript",
+            "rate": "5",
+            "ID": 13
+        }
+    },
+    {
+        "recordId": "recUp23yriALx",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "Spring boot",
+            "remark": "https://spring.io/projects/spring-boot",
+            "project_name": "New CRM",
+            "language": "java",
+            "rate": "40",
+            "ID": 14
+        }
+    },
+    {
+        "recordId": "recpESBrGq2li",
+        "createdAt": 1656478004000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "Mybatis",
+            "remark": "https://mybatis.org/mybatis-3/",
+            "project_name": "New CRM",
+            "language": "java",
+            "rate": "10",
+            "ID": 15
+        }
+    },
+    {
+        "recordId": "recXi6Cxbohx6",
+        "createdAt": 1656480478000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "Mybatis",
+            "project_name": "New CRM",
+            "language": "xml",
+            "rate": "10",
+            "ID": 16
+        }
+    },
+    {
+        "recordId": "recaSWa3Dff97",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657356587000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "RabbitMQ(CloudAMQP)",
+            "remark": "https://devcenter.heroku.com/articles/cloudamqp#use-with-java",
+            "project_name": "New CRM",
+            "language": "java",
+            "rate": "20",
+            "ID": 17
+        }
+    },
+    {
+        "recordId": "recZlP8EbORkM",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "Quartz",
+            "remark": "https://www.javatpoint.com/quartz-scheduler-java",
+            "project_name": "New CRM",
+            "language": "java",
+            "rate": "10",
+            "ID": 18
+        }
+    },
+    {
+        "recordId": "recwzGBETPiZc",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1575129600000,
+            "end_date": 1598889600000,
+            "project_id": 4,
+            "framework": "PostgreSQL",
+            "remark": "https://www.postgresql.org/",
+            "project_name": "New CRM",
+            "language": "sql",
+            "rate": "20",
+            "ID": 19
+        }
+    },
+    {
+        "recordId": "recFrp2xMAJi3",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "NodeJs",
+            "remark": "https://nodejs.org/zh-cn/",
+            "project_name": "Bestseller海外官网",
+            "language": "javascript",
+            "rate": "40",
+            "ID": 20
+        }
+    },
+    {
+        "recordId": "recvutG0GFQBp",
+        "createdAt": 1656473625000,
+        "updatedAt": 1657356595000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "Commerce Cloud B2C API",
+            "remark": "https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp",
+            "project_name": "Bestseller海外官网",
+            "language": "javascript",
+            "rate": "25",
+            "ID": 21
+        }
+    },
+    {
+        "recordId": "rec2d5Z88vVPq",
+        "createdAt": 1656473626000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "jQuery",
+            "remark": "https://jquery.com/",
+            "project_name": "Bestseller海外官网",
+            "language": "javascript",
+            "rate": "15",
+            "ID": 22
+        }
+    },
+    {
+        "recordId": "recG8ApUrFYYR",
+        "createdAt": 1657283598000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "Ajax",
+            "remark": "https://developer.mozilla.org/zh-CN/docs/Web/Guide/AJAX",
+            "project_name": "Bestseller海外官网",
+            "language": "javascript",
+            "rate": "5",
+            "ID": 23
+        }
+    },
+    {
+        "recordId": "recRbysRfMJKA",
+        "createdAt": 1656473626000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "BootStrap",
+            "remark": "https://www.bootcss.com/",
+            "project_name": "Bestseller海外官网",
+            "language": "html/css",
+            "rate": "10",
+            "ID": 24
+        }
+    },
+    {
+        "recordId": "recnI5nZbJ22i",
+        "createdAt": 1656473626000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1541001600000,
+            "end_date": 1572537600000,
+            "project_id": 3,
+            "framework": "Webpack",
+            "remark": "https://webpack.js.org/",
+            "project_name": "Bestseller海外官网",
+            "language": "javascript",
+            "rate": "5",
+            "ID": 25
+        }
+    },
+    {
+        "recordId": "recgOCIIPXAHF",
+        "createdAt": 1656478798000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "jQuery",
+            "remark": "https://jquery.com/",
+            "project_name": "FJAS-公共图书馆",
+            "language": "javascript",
+            "rate": "40",
+            "ID": 26
+        }
+    },
+    {
+        "recordId": "rectdW837AAkK",
+        "createdAt": 1656479736000,
+        "updatedAt": 1657359098000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "DataTables",
+            "remark": "https://www.datatables.net/",
+            "project_name": "FJAS-公共图书馆",
+            "language": "javascript",
+            "rate": "20",
+            "ID": 27
+        }
+    },
+    {
+        "recordId": "recbLOPgLHEXY",
+        "createdAt": 1656478810000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "jQuery UI",
+            "remark": "https://jqueryui.com/",
+            "project_name": "FJAS-公共图书馆",
+            "language": "javascript",
+            "rate": "15",
+            "ID": 28
+        }
+    },
+    {
+        "recordId": "recwYvfIPYRyr",
+        "createdAt": 1656480496000,
+        "updatedAt": 1657359095000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "jQuery UI",
+            "project_name": "FJAS-公共图书馆",
+            "language": "html/css",
+            "rate": "15",
+            "ID": 29
+        }
+    },
+    {
+        "recordId": "recYooz3Z4vIF",
+        "createdAt": 1656478811000,
+        "updatedAt": 1657359092000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "Spring MVC",
+            "remark": "https://docs.spring.io/spring-framework/docs/4.2.4.RELEASE/spring-framework-reference/html/mvc.html",
+            "project_name": "FJAS-公共图书馆",
+            "language": "java",
+            "rate": "5",
+            "ID": 30
+        }
+    },
+    {
+        "recordId": "receCGnMC6Y4t",
+        "createdAt": 1656478811000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1441036800000,
+            "end_date": 1538323200000,
+            "project_id": 2,
+            "framework": "PostgreSQL",
+            "remark": "https://www.postgresql.org/",
+            "project_name": "FJAS-公共图书馆",
+            "language": "sql",
+            "rate": "5",
+            "ID": 31
+        }
+    },
+    {
+        "recordId": "recwlRQR6ifQ7",
+        "createdAt": 1656480745000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": ".NetCore WebAPI(C#)",
+            "remark": "https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet",
+            "project_name": "FXS 其他项目",
+            "language": "C#",
+            "rate": "10",
+            "ID": 32
+        }
+    },
+    {
+        "recordId": "recITIyrMgqgR",
+        "createdAt": 1656480771000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "Strusts1.0",
+            "remark": "https://struts.apache.org/struts1eol-announcement.html",
+            "project_name": "FXS 其他项目",
+            "language": "java",
+            "rate": "20",
+            "ID": 33
+        }
+    },
+    {
+        "recordId": "reciyoroC8wgS",
+        "createdAt": 1656480785000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "JSP",
+            "remark": "https://www.javatpoint.com/jsp-tutorial",
+            "project_name": "FXS 其他项目",
+            "language": "javascript",
+            "rate": "15",
+            "ID": 34
+        }
+    },
+    {
+        "recordId": "rechrxkcDN7Pz",
+        "createdAt": 1656480815000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "JSP",
+            "project_name": "FXS 其他项目",
+            "language": "html/css",
+            "rate": "15",
+            "ID": 35
+        }
+    },
+    {
+        "recordId": "recwhtmi1OYW7",
+        "createdAt": 1656480785000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "VBA",
+            "remark": "https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office",
+            "project_name": "FXS 其他项目",
+            "language": "vba",
+            "rate": "20",
+            "ID": 36
+        }
+    },
+    {
+        "recordId": "rec9NXNw6bhb6",
+        "createdAt": 1656480785000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "OracleSQL",
+            "remark": "https://www.oracle.com/database/",
+            "project_name": "FXS 其他项目",
+            "language": "sql",
+            "rate": "20",
+            "ID": 37
+        }
+    },
+    {
+        "recordId": "rec7f8Ig0TfGY",
+        "createdAt": 1656481429000,
+        "updatedAt": 1657283668000,
+        "fields": {
+            "start_date": 1406822400000,
+            "end_date": 1438358400000,
+            "project_id": 1,
+            "framework": "MySQL",
+            "remark": "https://www.mysql.com/",
+            "project_name": "FXS 其他项目",
+            "language": "sql",
+            "rate": "20",
+            "ID": 38
+        }
+    }
+]
